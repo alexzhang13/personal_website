@@ -398,7 +398,7 @@ const resumeleft = {
         subtitle: "Undergraduate Researcher",
         date: "March 2021 - present",
         content: [
-          "Worked under a PhD student in Karthik Narasimhan's group for visual forecasting with NLP components project. ",
+          "Worked under a PhD student in Karthik Narasimhan's group; paper currently under review. ",
           "Currently working on a new project involving video summarization and description techniques.",
         ],
       },
