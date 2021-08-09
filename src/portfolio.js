@@ -9,7 +9,7 @@ const seo = {
   og: {
     title: "Alex Zhang",
     type: "website",
-    url: "http://alexzhang.ml/",
+    url: "http://zhalex.com/",
   },
 };
 
@@ -247,7 +247,7 @@ const projectcards = {
           color: "#004782",
         },
         {
-          lang: "C++",
+          lang: "c++",
           color: "#c47206",
         },
         {
@@ -314,7 +314,7 @@ const projectcards = {
           color: "#004782",
         },
         {
-          lang: "C++",
+          lang: "c++",
           color: "#c47206",
         },
         {
@@ -341,7 +341,7 @@ const projectcards = {
           color: "red",
         },
         {
-          lang: "C++",
+          lang: "c++",
           color: "#c47206",
         },
         {
@@ -358,11 +358,15 @@ const projectcards = {
       title: "Georg's Game",
       img_path: "qiskit.gif",
       description:
-        "Project with a group of friends for the 2021 NYU Qiskit Hackathon in Quantum Computing. We designed a turn-based PvP game focused on manipulating quantum gates with the goal of maximizing the measurement of a certain set of bits.",
+        "Project with a group of friends for the 2021 NYU Qiskit Hackathon in Quantum Computing. We designed a turn-based PvP game focused on manipulating quantum gates with the goal of maximizing the probability of measuring of a certain set of bits.",
       tags: [
         {
           lang: "python",
           color: "#004782",
+        },
+        {
+          lang: "Flask",
+          color: "#1aa321",
         },
         {
           lang: "Javascript",
@@ -374,7 +378,7 @@ const projectcards = {
         },
         {
           lang: "Heroku",
-          color: "#051c61",
+          color: "#3c0095",
         },
       ],
       link:
@@ -390,8 +394,8 @@ const resumeleft = {
     title: ["Experience"],
     data: [
       {
-        title: "Undergraduate Researcher",
-        subtitle: "Princeton NLP Lab",
+        title: "Princeton NLP Lab",
+        subtitle: "Undergraduate Researcher",
         date: "March 2021 - present",
         content: [
           "Worked under a PhD student in Karthik Narasimhan's group for visual forecasting with NLP components project. ",
@@ -399,8 +403,8 @@ const resumeleft = {
         ],
       },
       {
-        title: "Machine Learning Research Intern",
-        subtitle: "SRI International",
+        title: "SRI International",
+        subtitle: "Machine Learning Research Intern",
         date: "Summer 2018, Summer 2019",
         content: [
           "Built and evaluated several multi-task deep reinforcement learning models using Keras, TensorFlow, and DeepMind’s PySC2 library to investigate the catastrophic forgetting phenomena.",
