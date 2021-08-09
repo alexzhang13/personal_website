@@ -5,7 +5,7 @@ const settings = {
 //SEO Related settings
 const seo = {
   title: "Alex Zhang's Portfolio",
-  description: "I'm a Princeton Student interested in ML/AI and SWE",
+  description: "Website for Alex Zhang's Portfolio. Interested in AI/ML, entrepreneurship, and other tech stuff.",
   og: {
     title: "Alex Zhang",
     type: "website",
@@ -15,7 +15,7 @@ const seo = {
 
 //Home Page
 const greeting = {
-  title: "Hi!",
+  title: "Hi there!",
   sub: "Alex Zhang",
   logo_name: "Alex Zhang",
   resumeLink: "",
@@ -164,7 +164,7 @@ const skills = {
       title: "Other Programming Ventures",
       skills: [
         "👾 I have recently started doing competitive programming for fun! ",
-        "🎮 I've also been working on some game development projects in my free time ",
+        "🎮 I've also been working on some game development projects in my free time. ",
       ],
       softwareSkills: [
         {

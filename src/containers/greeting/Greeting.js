@@ -30,7 +30,7 @@ export default function Greeting(props) {
                   A student at{" "}
                   <mark data-entity="school">Princeton University</mark>{" "}
                   interested in <mark data-entity="field">AI/ML</mark>,{" "}
-                  <mark data-entity="skill">Web Development</mark> and
+                  <mark data-entity="skill">Web Development</mark>, and
                   <mark data-entity="skill">Entrepreneurship</mark>! I also play
                   a lot of video games and have gotten into{" "}
                   <mark data-entity="skill">Game Development</mark>
